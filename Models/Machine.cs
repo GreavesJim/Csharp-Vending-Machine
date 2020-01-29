@@ -14,7 +14,7 @@ namespace Vendor.Models
     private void Setup()
     {
 
-      Frozen pop = new Frozen("Popcicle", 2.00f, 100, "September 2121", "a1");
+      Frozen pop = new Frozen("Popsicle", 2.00f, 100, "September 2121", "a1");
       Frozen ICS = new Frozen("Ice Cream Sandwich", 3.00f, 300, "October 1995", "a2");
       Frozen fudgey = new Frozen("Fudgesicle", 4.00f, 500, "February 2020", "a3");
       Candy dots = new Candy("DOTS", 1.00f, 75, "November 2020", CandyList.Fruity, "b1");
