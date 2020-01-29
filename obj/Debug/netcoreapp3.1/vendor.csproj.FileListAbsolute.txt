@@ -1,0 +1,11 @@
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.exe
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.deps.json
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.runtimeconfig.json
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.runtimeconfig.dev.json
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.dll
+C:\source\codeworks\c#\vendor\bin\Debug\netcoreapp3.1\vendor.pdb
+C:\source\codeworks\c#\vendor\obj\Debug\netcoreapp3.1\vendor.csprojAssemblyReference.cache
+C:\source\codeworks\c#\vendor\obj\Debug\netcoreapp3.1\vendor.AssemblyInfoInputs.cache
+C:\source\codeworks\c#\vendor\obj\Debug\netcoreapp3.1\vendor.AssemblyInfo.cs
+C:\source\codeworks\c#\vendor\obj\Debug\netcoreapp3.1\vendor.dll
+C:\source\codeworks\c#\vendor\obj\Debug\netcoreapp3.1\vendor.pdb

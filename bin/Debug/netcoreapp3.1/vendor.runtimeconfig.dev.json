@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\greav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\greav\\.nuget\\packages"
+    ]
+  }
+}
