@@ -13,7 +13,7 @@ namespace Vendor.Models
     public CandyList CandyType { get; set; }
     public override string GetMachineItem()
     {
-      return $"{OrderCode})--{Title}----{CandyType}-exp.-{ExperationDate}-----${Price}";
+      return $"{OrderCode})--{Title}----{CandyType}-exp.-{ExperationDate}------${Price}";
     }
 
 
